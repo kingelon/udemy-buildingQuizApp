@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "choice1": "New York",
+      "choice2": "London",
+      "choice3": "Paris",
+      "choice4": "Dublin",
+      "answer": 3
+    },
+    {
+      "question": "What is 2 + 2?",
+      "choice1": "4",
+      "choice2": "22",
+      "choice3": "6",
+      "choice4": "8",
+      "answer": 1
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "choice1": "Charles Dickens",
+      "choice2": "William Shakespeare",
+      "choice3": "Jane Austen",
+      "choice4": "Mark Twain",
+      "answer": 2
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "choice1": "Mars",
+      "choice2": "Saturn",
+      "choice3": "Jupiter",
+      "choice4": "Neptune",
+      "answer": 3
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "choice1": "Go",
+      "choice2": "Gd",
+      "choice3": "Au",
+      "choice4": "Ag",
+      "answer": 3
+    }
+  ]
+}
